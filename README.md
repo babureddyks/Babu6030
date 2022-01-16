@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Babu Reddy
  
 - 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently learning Machine learning and Could Computing.
+- 🌱 I'm currently Working as Data Scientist.
 - 💞️ I’m looking to collaborate on teams to work on IoT for the Automate
 - 📫 Feel free to reach me at babureddy6030@gmail.com
 
