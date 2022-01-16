@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Babu Reddy
+<h1 align="center">👋 Hi, I’m Babu Reddy</h1>
  
  👀 I’m interested in Data Analysis.
  🌱 I'm currently Working as Data Scientist.
