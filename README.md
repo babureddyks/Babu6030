@@ -1,14 +1,11 @@
 <h1 align="center">👋 Hi, I’m Babu Reddy</h1> 
-<h3 align="center">Data Scientist and Vehicle Diagnosis</h3> 
+<h3 align="center">A Proficent Data Scientist and Vehicle Diagnosis</h3> 
  -I’m looking to collaborate on teams to work on Data Analytics and IoT for the Automate
  -📫 <a href="mailto:babureddy6030@gmail.com"> Send me a mail </a>
 <!---
 Babu6030/Babu6030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Babu Reddy</h1>
-<h3 align="center">A proficient Data Scientist from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babu6030&label=Profile%20views&color=0e75b6&style=flat" alt="babu6030" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babu6030" alt="babu6030" /></a> </p>
