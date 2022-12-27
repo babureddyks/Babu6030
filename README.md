@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I’m Babu Reddy</h1> 
 <h3 align="center">A Proficent Data Scientist and Vehicle Diagnosis</h3> 
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2plEXYrzDZqrwQJy4ETFS5&ust=1672225563058000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNiLg_XTmfwCFQAAAAAdAAAAABAE" align="right" width='400'>
+
  -I’m looking to collaborate on teams to work on Data Analytics and IoT for the Automate
  -📫 <a href="mailto:babureddy6030@gmail.com"> Send me a mail </a>
 <!---
